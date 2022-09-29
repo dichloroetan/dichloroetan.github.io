@@ -1215,7 +1215,8 @@
                "label":"Postgres password"
             }
          ]
-      }{
+      },
+      {
          "categories":[
             "Other",
             "Tools"
